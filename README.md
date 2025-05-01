@@ -14,3 +14,4 @@
 
 *MENTOR*: Thoufiq Z
 
+*Display*: ![Image](https://github.com/user-attachments/assets/33abfde5-5966-4bf2-a972-1062fbbb3fdb)
